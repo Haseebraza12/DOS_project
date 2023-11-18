@@ -1,0 +1,3 @@
+﻿  bscs22115  DOS_project.cpp
+D:\DATA STRUCTURE ALGORITHM\bscs22115  DOS_project\bscs22115  DOS_project.cpp(33,21): error C2065: 'File': undeclared identifier
+D:\DATA STRUCTURE ALGORITHM\bscs22115  DOS_project\bscs22115  DOS_project.cpp(33,26): error C2059: syntax error: '>'
